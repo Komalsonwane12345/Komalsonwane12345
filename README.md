@@ -10,3 +10,8 @@ I am bsc graduate, i am good in c and c++.
 * Writing
 * Painting
 * drawing
+
+#### Languages
+* English
+* Hindi
+* Marathi
